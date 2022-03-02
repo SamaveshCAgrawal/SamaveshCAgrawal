@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamaveshCAgrawal
-- 👀 I’m interested in Python
+- 👀 I’m interested in AI / Python
 - 🌱 I’m currently learning M.Tech in Defence Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me scagrawal_m21@me.vjti.ac.im
